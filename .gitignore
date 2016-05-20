@@ -1,0 +1,7 @@
+.bundle
+.idea/
+*.gem
+.ruby-version
+.rubocop.yml
+Gemfile.lock
+test/coverage/*
