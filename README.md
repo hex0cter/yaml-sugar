@@ -203,4 +203,4 @@ This code is free to use under the terms of the MIT license.
 
 ## Contribution
 
-You are more than welcome to raise any issues, open a Pull Request [here](https://github.com/hex0cter/yaml-sugar).
+You are more than welcome to raise any issues [here](https://github.com/hex0cter/yaml-sugar/issues), or create a Pull Request.
